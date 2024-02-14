@@ -2,7 +2,7 @@
 ## Overview:
 - Welcome to the CIFAR-10 Neural Network Project! This project is an opportunity to explore the fascinating domain of deep learning and image classification using the CIFAR-10 dataset. Comprising 60,000 32x32 color images across 10 classes, CIFAR-10 serves as an ideal playground for honing your skills in neural networks.
 
-##Project Goals:
+## Project Goals:
 - Implement a Convolutional Neural Network (CNN) for image classification.
 - Preprocess the CIFAR-10 dataset for optimal training.
 - Explore data augmentation techniques to enhance model generalization.
